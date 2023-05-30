@@ -1,0 +1,13 @@
+package com.h4p3;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RedisLibApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
